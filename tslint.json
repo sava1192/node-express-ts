@@ -8,7 +8,7 @@
     "trailing-comma": [
       true
     ],
-    "semicolon": false,
+    "semicolon": [true, "never", "ignore-interfaces"],
     "quotemark": false
   },
   "rulesDirectory": []
